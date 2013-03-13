@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="hmtv-xbmc"
+  version="0.0.1"
+  name="HomeMediaTV-ConfigurationUtility"
+  provider-name="HMTV.com"
+>
+<requires> </requires>
+<extension point="see notes"></extension>
+<extension point="xbmc.addon.metadata">
+<summary></summary>
+<description></description>
+<platform></platform>
+</extension>
+</addon>
